@@ -81,7 +81,8 @@ Keep track of all your orders effortlessly! 📂🕰️
 
 - **Pending Orders:** View and manage orders awaiting processing. ⏳📦  
 - **Archives:** Access completed orders and keep your history organized. 📜🔒  
-- **Filter Options:** Find orders quickly using advanced filters. 🔍⚡  
+- **Invoices:** Download the invoices . 📝
+
 
 ---
 
@@ -101,8 +102,7 @@ Browse and manage products seamlessly! 🛍️📋
 
 Manage your account details and settings easily! 👤⚙️  
 
-- **User Information:** Update your name, email, and profile picture. 📋🖼️  
-- **Preferences:** Customize app settings like notifications and themes. 🔔🎨  
+- **User Information:** Update your name, location, and profile picture. 📋🖼️  
 - **Security:** Change your password or enable biometric authentication. 🔒🛡️  
 
 ---
@@ -111,11 +111,8 @@ Manage your account details and settings easily! 👤⚙️
 ![Search with Filter](snapshots/Search_with_Filter.png)  
 
 Find exactly what you’re looking for with advanced search features! 🔍⚙️  
-
-- **Keyword Search:** Type in keywords to locate items or orders. ✏️🔎  
-- **Filters:** Narrow down results by categories, price range, and more. 🏷️⚡  
-- **Save Searches:** Quickly access frequently used filters. 💾🔁  
-
+- **Quick Search:** Type keywords, product IDs, or categories. ⌨️
+- **Filters:** Refine results by city. 🔎📊
 ---
 
 ## **📬 Contact Us 📬**  
