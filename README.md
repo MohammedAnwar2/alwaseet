@@ -63,11 +63,14 @@ Share your thoughts and help improve the platform. **Alwaseet** values your feed
 ### 6. **Order Management 🛒📦**  
 ![Order](snapshots/Order.png)  
 
-Efficiently handle your orders with ease! 🛒📦  
+ease from placement to delivery. 🚚✔️
 
-- **Place Orders:** Quickly add items to your cart and place orders. 🛍️💳  
-- **Order History:** View details of past orders at any time. 📜🔍  
-- **Real-time Updates:** Stay updated with live notifications on your order status. 🔔📡  
+Select Products: Browse through categories and choose the products you want to order. 🛍️
+Confirm Order: Review the details (like quantity, price, address) and make sure everything is correct before proceeding. ✔️
+Choose Payment Method: Select your preferred payment method, whether it's through card payment or cash on delivery. 💳
+Final Confirmation: After reviewing all the details, confirm your order for it to be sent to the restaurant or store. ✅
+Track Order: Once the order is confirmed, you can track its status from "Processing" to "On the Way" and finally "Delivered." 🔎🚚
+Receive Order: Upon arrival, make sure to receive your order and enjoy the products or services you ordered. 🎉
 
 ---
 
