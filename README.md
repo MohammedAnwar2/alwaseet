@@ -52,11 +52,11 @@ Discover six diverse categories designed to meet all your needs, including resta
 ### 5. **Feedback 🗣️💬**  
 ![Feedback](snapshots/Feedback.png)  
 
-We value your feedback! Share your thoughts and help us improve. 🗣️📈  
+Share your thoughts and help improve the platform. **Alwaseet** values your feedback! 💌❤️
 
-- **Easy Submission:** Provide feedback or suggestions directly through the app. 📝📤  
-- **Rate Us:** Let us know how we’re doing with a quick rating. ⭐📊  
-- **Support Integration:** Reach out to our support team for any issues or queries. 🤝💡  
+- **Rate Services:** Provide ratings for restaurants, clinics, and more. ⭐️
+- **Write Reviews:** Share detailed feedback to guide other users. 🖋
+- **Admin Response:** Receive timely replies to your queries and suggestions. 🙌🌐
 
 ---
 
