@@ -9,14 +9,14 @@ From seamless authentication to intuitive filters, **Alwaseet** brings everythin
 ## **🌟 Features 🌟**
 
 ### 1. **Splash Screen** 🌟  
-![Splash](assets/snapshots/Splash.png) 
+![Splash](snapshots/Splash.png) 
 
 Enjoy a warm and smooth welcome every time you open **Alwaseet** with our elegant splash screen. 🚀✨  
 
 ---
 
 ### 2. **Onboarding 🎉📲**  
-![Onboarding](assets/snapshots/Onboarding.png)  
+![Onboarding](snapshots/Onboarding.png)  
 
 Start your journey with an engaging onboarding experience! 🎈📝  
 
@@ -27,7 +27,7 @@ Start your journey with an engaging onboarding experience! 🎈📝
 ---
 
 ### 3. **Authentication 🔒**  
-![Authentication](assets/snapshots/Authentication.png)  
+![Authentication](snapshots/Authentication.png)  
 
 Stay secure with our comprehensive authentication system! 🛡️  
 
@@ -38,7 +38,7 @@ Stay secure with our comprehensive authentication system! 🛡️
 ---
 
 ### 4. **Categories 📂**  
-![Categories](assets/snapshots/Categories.png)  
+![Categories](snapshots/Categories.png)  
 
 Organize your items effortlessly with our Categories feature! 📂🗂️  
 
@@ -49,7 +49,7 @@ Organize your items effortlessly with our Categories feature! 📂🗂️
 ---
 
 ### 5. **Feedback 🗣️💬**  
-![Feedback](assets/snapshots/Feedback.png)  
+![Feedback](snapshots/Feedback.png)  
 
 We value your feedback! Share your thoughts and help us improve. 🗣️📈  
 
@@ -60,7 +60,7 @@ We value your feedback! Share your thoughts and help us improve. 🗣️📈
 ---
 
 ### 6. **Order Management 🛒📦**  
-![Order](assets/snapshots/Order.png)  
+![Order](snapshots/Order.png)  
 
 Efficiently handle your orders with ease! 🛒📦  
 
@@ -71,7 +71,7 @@ Efficiently handle your orders with ease! 🛒📦
 ---
 
 ### 7. **Pending and Archives 📂🕰️**  
-![Pending and Archives](assets/snapshots/Pending.png)  
+![Pending and Archives](snapshots/Pending.png)  
 
 Keep track of all your orders effortlessly! 📂🕰️  
 
@@ -82,7 +82,7 @@ Keep track of all your orders effortlessly! 📂🕰️
 ---
 
 ### 8. **Products 🛍️📋**  
-![Products](assets/snapshots/Products.png)  
+![Products](snapshots/Products.png)  
 
 Browse and manage products seamlessly! 🛍️📋  
 
@@ -93,7 +93,7 @@ Browse and manage products seamlessly! 🛍️📋
 ---
 
 ### 9. **Profile 👤⚙️**  
-![Profile](assets/snapshots/Profile.png)  
+![Profile](snapshots/Profile.png)  
 
 Manage your account details and settings easily! 👤⚙️  
 
@@ -104,7 +104,7 @@ Manage your account details and settings easily! 👤⚙️
 ---
 
 ### 10. **Search with Filters 🔍⚙️**  
-![Search with Filter](assets/snapshots/SearchFilter.png)  
+![Search with Filter](snapshots/SearchFilter.png)  
 
 Find exactly what you’re looking for with advanced search features! 🔍⚙️  
 
