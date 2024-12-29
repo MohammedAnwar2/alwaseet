@@ -71,7 +71,7 @@ Efficiently handle your orders with ease! 🛒📦
 ---
 
 ### 7. **Pending and Archives 📂🕰️**  
-![Pending and Archives](snapshots/Pending.png)  
+![Pending and Archives](snapshots/Pending_and_Archives.png)  
 
 Keep track of all your orders effortlessly! 📂🕰️  
 
@@ -82,7 +82,7 @@ Keep track of all your orders effortlessly! 📂🕰️
 ---
 
 ### 8. **Products 🛍️📋**  
-![Products](snapshots/Products.png)  
+![Products](snapshots/Prodocts.png)  
 
 Browse and manage products seamlessly! 🛍️📋  
 
@@ -104,7 +104,7 @@ Manage your account details and settings easily! 👤⚙️
 ---
 
 ### 10. **Search with Filters 🔍⚙️**  
-![Search with Filter](snapshots/SearchFilter.png)  
+![Search with Filter](snapshots/Search_with_Filter.png)  
 
 Find exactly what you’re looking for with advanced search features! 🔍⚙️  
 
