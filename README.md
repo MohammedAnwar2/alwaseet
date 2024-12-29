@@ -49,18 +49,8 @@ Discover six diverse categories designed to meet all your needs, including resta
 
 ---
 
-### 5. **Feedback 🗣️💬**  
-![Feedback](snapshots/Feedback.png)  
 
-Share your thoughts and help improve the platform. **Alwaseet** values your feedback! 💌❤️
-
-- **Rate Services:** Provide ratings for restaurants, clinics, and more. ⭐️
-- **Write Reviews:** Share detailed feedback to guide other users. 🖋
-- **Admin Response:** Receive timely replies to your queries and suggestions. 🙌🌐
-
----
-
-### 6. **Order Management 🛒📦**  
+### 5. **Order Management 🛒📦**  
 ![Order](snapshots/Order.png)  
 
 ease from placement to delivery. 🚚✔️
@@ -74,7 +64,7 @@ Receive Order: Upon arrival, make sure to receive your order and enjoy the produ
 
 ---
 
-### 7. **Pending and Archives 📂🕰️**  
+### 6. **Pending and Archives 📂🕰️**  
 ![Pending and Archives](snapshots/Pending_and_Archives.png)  
 
 Keep track of all your orders effortlessly! 📂🕰️  
@@ -86,7 +76,7 @@ Keep track of all your orders effortlessly! 📂🕰️
 
 ---
 
-### 8. **Products 🛍️📋**  
+### 7. **Products 🛍️📋**  
 ![Products](snapshots/Prodocts.png)  
 
 Browse and manage products seamlessly! 🛍️📋  
@@ -96,7 +86,16 @@ Browse and manage products seamlessly! 🛍️📋
 - **Add to Cart:** Quickly add products to your cart for checkout. 🛒💳  
 
 ---
+### 8. **Feedback 🗣️💬**  
+![Feedback](snapshots/Feedback.png)  
 
+Share your thoughts and help improve the platform. **Alwaseet** values your feedback! 💌❤️
+
+- **Rate Services:** Provide ratings for restaurants, clinics, and more. ⭐️
+- **Write Reviews:** Share detailed feedback to guide other users. 🖋
+- **Admin Response:** Receive timely replies to your queries and suggestions. 🙌🌐
+
+---
 ### 9. **Profile 👤⚙️**  
 ![Profile](snapshots/Profile.png)  
 
