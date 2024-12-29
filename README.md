@@ -1,4 +1,4 @@
-# **Alwaseet App** 🌟📱 **Frelancer App**
+# **Alwaseet App** 🌟📱 *Frelancer*
 
 Welcome to **Alwaseet**! 🚀✨ This app is your ultimate companion for managing your tasks, orders, and profiles efficiently. With a sleek design, powerful features, and a user-friendly interface, **Alwaseet** is here to simplify your daily routines and keep everything organized! 🎯📅
 
